@@ -1,0 +1,41 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+backend_startup.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Indexes (large binary files - rebuild on each machine)
+indexes/
+backend/storage/
+
+# Temp files
+temp_*.jpg
+temp_*.png
+
+# Uploads
+uploads/

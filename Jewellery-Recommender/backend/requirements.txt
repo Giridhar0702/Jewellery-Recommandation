@@ -1,0 +1,22 @@
+# ── Core ────────────────────────────────────────────
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pydantic
+
+# ── ML / Embeddings ────────────────────────────────
+torch
+torchvision
+transformers
+Pillow
+sentence-transformers
+
+# ── Vector DB ──────────────────────────────────────
+faiss-cpu
+
+# ── Utilities ──────────────────────────────────────
+numpy
+tqdm
+opencv-python
+openai
